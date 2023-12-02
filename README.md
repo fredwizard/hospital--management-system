@@ -1,3 +1,1 @@
 # hospital--management-system
-
-#Screenshots
